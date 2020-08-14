@@ -11,11 +11,15 @@
   ```sh
     npm install
   ```
-  Inicia a aplicação:
+  Iniciar a aplicação:
   ```sh
-    npm start
+    npm run start
   ```
-  
+ > A aplicação escutará a porta 3333 por padrão, caso queira alterá-la basta definir uma nova porta em [server.ts](src/server.ts):
+ ```sh
+    app.listen(porta);
+  ```
+    
   ## Meta
 
 Elivelton Barbosa – [LinkedIn](https://www.linkedin.com/in/elivelton-barbosa-dev) – elivelton.barbosa22@gmail.com
