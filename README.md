@@ -18,6 +18,6 @@
   
   ## Meta
 
-Elivelton Barbosa – [www.linkedin.com/in/elivelton-barbosa-dev](www.linkedin.com/in/elivelton-barbosa-dev) – elivelton.barbosa22@gmail.com
+Elivelton Barbosa – [LinkedIn](https://www.linkedin.com/in/elivelton-barbosa-dev) – elivelton.barbosa22@gmail.com
 
 [https://github.com/EliveltonBarbosa](https://github.com/EliveltonBarbosa)
